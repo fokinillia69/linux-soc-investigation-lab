@@ -1,0 +1,7 @@
+Oct 30 08:41:02 web-01 sshd[7101]: Failed password for deploy from 203.0.113.88 port 44001 ssh2
+Oct 30 08:41:09 web-01 sshd[7102]: Failed password for deploy from 203.0.113.88 port 44002 ssh2
+Oct 30 08:41:16 web-01 sshd[7103]: Failed password for deploy from 203.0.113.88 port 44003 ssh2
+Oct 30 08:42:05 web-01 sshd[7104]: Accepted password for deploy from 203.0.113.88 port 44004 ssh2
+Oct 30 08:42:10 web-01 sshd[7105]: session opened for user deploy
+Oct 30 09:05:00 web-01 sshd[7106]: session closed for user deploy
+Oct 30 09:10:00 web-01 sshd[7107]: Accepted password for admin from 192.168.1.25 port 44005 ssh2

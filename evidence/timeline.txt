@@ -1,0 +1,16 @@
+SOC-2026-041 - INCIDENT TIMELINE
+
+08:41:02 - Failed SSH login for deploy
+08:41:09 - Failed SSH login for deploy
+08:41:16 - Failed SSH login for deploy
+08:42:05 - Successful SSH authentication for deploy
+08:42:10 - Session opened for deploy
+08:43:01 - User identity checked (id)
+08:43:20 - Current username checked (whoami)
+08:44:02 - System information collected (uname -a)
+08:45:15 - Running processes listed (ps aux)
+08:46:30 - Network interfaces inspected (ip addr)
+08:50:01 - New user svc-backup created
+08:51:00 - svc-backup added to sudo group
+09:05:00 - SSH session closed for deploy
+09:10:00 - Separate successful login for admin

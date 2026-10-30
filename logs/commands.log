@@ -1,0 +1,5 @@
+Oct 30 08:43:01 web-01 audit[7108]: USER=deploy COMMAND=/usr/bin/id
+Oct 30 08:43:20 web-01 audit[7109]: USER=deploy COMMAND=/usr/bin/whoami
+Oct 30 08:44:02 web-01 audit[7110]: USER=deploy COMMAND=/bin/uname -a
+Oct 30 08:45:15 web-01 audit[7111]: USER=deploy COMMAND=/usr/bin/ps aux
+Oct 30 08:46:30 web-01 audit[7112]: USER=deploy COMMAND=/usr/bin/ip addr

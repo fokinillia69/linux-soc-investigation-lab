@@ -1,0 +1,20 @@
+SOC-2026-041 - INITIAL FINDINGS
+
+1. SSH AUTHENTICATION
+Three failed SSH login attempts for deploy.
+Successful SSH authentication for deploy from 203.0.113.88.
+
+2. POST-AUTHENTICATION ACTIVITY
+System information and process enumeration commands were recorded.
+
+3. ACCOUNT CHANGES
+A new account svc-backup was created.
+The account was added to the sudo group.
+
+4. FIREWALL
+Firewall logs recorded BLOCK and ACCEPT events
+associated with 203.0.113.88.
+
+5. INITIAL ASSESSMENT
+Possible unauthorized access and privilege persistence.
+Further investigation required.

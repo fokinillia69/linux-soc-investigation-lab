@@ -1,0 +1,3 @@
+Oct 30 08:50:01 web-01 useradd[7113]: new user: name=svc-backup, UID=1012
+Oct 30 08:50:15 web-01 groupadd[7114]: new group: name=svc-backup
+Oct 30 08:51:00 web-01 usermod[7115]: add 'svc-backup' to group 'sudo'
